@@ -1,3 +1,7 @@
+"""
+Bubble sort:
+Access/Descent order
+"""
 
 class BubbleSort(object):
     def __init__(self, array):
